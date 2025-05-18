@@ -1,0 +1,74 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "status": "borrowed",
+            "category": "Fiction"
+        },
+        {
+            "id": 2,
+            "name": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "status": "available",
+            "category": "Fiction"
+        },
+        {
+            "id": 3,
+            "name": "1984",
+            "author": "George Orwell",
+            "status": "borrowed",
+            "category": "Sci-Fi"
+        },
+        {
+            "id": 4,
+            "name": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "status": "available",
+            "category": "Fantasy"
+        },
+        {
+            "id": 5,
+            "name": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "status": "available",
+            "category": "Romance"
+        },
+        {
+            "id": 6,
+            "name": "Harry Potter",
+            "author": "J.K. Rowling",
+            "status": "available",
+            "category": "Fantasy"
+        },
+        {
+            "id": 7,
+            "name": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "status": "available",
+            "category": "Fantasy"
+        },
+        {
+            "id": 8,
+            "name": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "status": "available",
+            "category": "Fiction"
+        }
+    ],
+    "borrowed": [
+        {
+            "id": 1,
+            "name": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "due_date": "01-06-2025"
+        },
+        {
+            "id": 3,
+            "name": "1984",
+            "author": "George Orwell",
+            "due_date": "01-06-2025"
+        }
+    ]
+}
